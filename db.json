@@ -84,7 +84,7 @@
 		"name": "Recipe App",
 		"description": "An advanced version of meal app where users can mark their favorite meals and a random meal is displayed on the homepage",
 		"hostedUrl": "https://recipe-app007.netlify.app/",
-		"imagePreview": "./images/recipe app.png",
+		"imagePreview": "./images/recipe-app.png",
 		"githubUrl": "https://github.com/govindbohara/Recipe-app",
 		"techStack": [
 			{
@@ -111,7 +111,7 @@
 		"name": "Quiz App",
 		"description": "A quiz app of five questions where score is displayed after finishing the quiz",
 		"hostedUrl": "https://quiz-app0007.netlify.app/",
-		"imagePreview": "./images/quiz app.png",
+		"imagePreview": "./images/quiz-app.png",
 		"githubUrl": "https://github.com/govindbohara/Quiz-app",
 		"techStack": [
 			{
