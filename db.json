@@ -1,0 +1,137 @@
+[
+	{
+		"name": "Todo App",
+		"description": "Todo App created using vanilla JS. Todos are stored in localstorage",
+		"hostedUrl": "https://todos-app0007.netlify.app/",
+		"githubUrl": "https://github.com/govindbohara/Todo-App",
+		"imagePreview": "./images/todo-app.png",
+		"techStack": [
+			{
+				"name": "Javascript",
+				"color": "#EFD81D",
+				"bg": "#fcf7d2",
+				"icon": "./icons/js-brands.svg"
+			},
+			{
+				"name": "Sass",
+				"color": "#C76494",
+				"bg": "#f4e0ea",
+				"icon": "./icons/sass-brands.svg"
+			},
+			{
+				"name": "Html",
+				"color": "#DD4B25",
+				"bg": "#f8dbd3",
+				"icon": "./icons/html5-brands.svg"
+			}
+		]
+	},
+	{
+		"name": "Password Generator",
+		"description": "A web app for generating secure password with lots of options to customize",
+		"hostedUrl": "https://password-generator007.netlify.app/",
+		"githubUrl": "https://github.com/govindbohara/Password-Generator",
+		"imagePreview": "./images/password-gen.png",
+		"techStack": [
+			{
+				"name": "Javascript",
+				"color": "#EFD81D",
+				"bg": "#fcf7d2",
+				"icon": "./icons/js-brands.svg"
+			},
+			{
+				"name": "Sass",
+				"color": "#C76494",
+				"bg": "#f4e0ea",
+				"icon": "./icons/sass-brands.svg"
+			},
+			{
+				"name": "Html",
+				"color": "#DD4B25",
+				"bg": "#f8dbd3",
+				"icon": "./icons/html5-brands.svg"
+			}
+		]
+	},
+	{
+		"name": "Meal App",
+		"description": "A web app to discover meals. Created using mealDB API",
+		"hostedUrl": "https://meal-app007.netlify.app/",
+		"githubUrl": "https://github.com/govindbohara/Meal-App",
+		"imagePreview": "./images/meal-app.png",
+		"techStack": [
+			{
+				"name": "Javascript",
+				"color": "#EFD81D",
+				"bg": "#fcf7d2",
+				"icon": "./icons/js-brands.svg"
+			},
+			{
+				"name": "Sass",
+				"color": "#C76494",
+				"bg": "#f4e0ea",
+				"icon": "./icons/sass-brands.svg"
+			},
+			{
+				"name": "Html",
+				"color": "#DD4B25",
+				"bg": "#f8dbd3",
+				"icon": "./icons/html5-brands.svg"
+			}
+		]
+	},
+	{
+		"name": "Recipe App",
+		"description": "An advanced version of meal app where users can mark their favorite meals and a random meal is displayed on the homepage",
+		"hostedUrl": "https://recipe-app007.netlify.app/",
+		"imagePreview": "./images/recipe app.png",
+		"githubUrl": "https://github.com/govindbohara/Recipe-app",
+		"techStack": [
+			{
+				"name": "Javascript",
+				"color": "#EFD81D",
+				"bg": "#fcf7d2",
+				"icon": "./icons/js-brands.svg"
+			},
+			{
+				"name": "Sass",
+				"color": "#C76494",
+				"bg": "#f4e0ea",
+				"icon": "./icons/sass-brands.svg"
+			},
+			{
+				"name": "Html",
+				"color": "#DD4B25",
+				"bg": "#f8dbd3",
+				"icon": "./icons/html5-brands.svg"
+			}
+		]
+	},
+	{
+		"name": "Quiz App",
+		"description": "A quiz app of five questions where score is displayed after finishing the quiz",
+		"hostedUrl": "https://quiz-app0007.netlify.app/",
+		"imagePreview": "./images/quiz app.png",
+		"githubUrl": "https://github.com/govindbohara/Quiz-app",
+		"techStack": [
+			{
+				"name": "Javascript",
+				"color": "#EFD81D",
+				"bg": "#fcf7d2",
+				"icon": "./icons/js-brands.svg"
+			},
+			{
+				"name": "Sass",
+				"color": "#C76494",
+				"bg": "#f4e0ea",
+				"icon": "./icons/sass-brands.svg"
+			},
+			{
+				"name": "Html",
+				"color": "#DD4B25",
+				"bg": "#f8dbd3",
+				"icon": "./icons/html5-brands.svg"
+			}
+		]
+	}
+]
